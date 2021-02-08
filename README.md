@@ -4,4 +4,8 @@ This is a part of my FreeCodeCamp [Javascript Algorithms and Data Structures Cer
 
 ## Usage
 
-Download the project to your machine and open index.html in a web browser.
+Download the code and open `index.html` in your browser. Or, just go to [this link](https://stoic-johnson-e5a8e8.netlify.app/).
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
