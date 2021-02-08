@@ -36,5 +36,5 @@ function setFocusDirections() {
 }
 
 function setBlurDirections() {
-  palindromeResult.textContent = "Press tab.";
+  palindromeResult.textContent = "Press tab... or tap the box.";
 }
